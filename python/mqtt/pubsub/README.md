@@ -22,3 +22,4 @@ Once you have obtained a topic and credentials and installed the dependencies, r
 
 # Contact
 
+- Jan Henrik Ziegeldorf <hziegeldorf (at) aedifion (dot) com>
